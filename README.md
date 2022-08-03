@@ -1,2 +1,1 @@
-# spamsms1
-Free api spam sms 
+Free API spam sms - do not use if you don't known !
